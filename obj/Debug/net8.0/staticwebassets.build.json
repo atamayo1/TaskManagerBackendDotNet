@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/SwJ3+2dGm9NBg4UoPhruCqaUZ4PeAJ0tFBVedBsDdU=",
+  "Source": "TaskManagerBackendDotNet",
+  "BasePath": "_content/TaskManagerBackendDotNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@TaskManagerBackendDotNet_HostAddress = http://localhost:5039
+
+GET {{TaskManagerBackendDotNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
