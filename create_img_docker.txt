@@ -1,0 +1,7 @@
+# Abre la terminal primero para colocar estos comandos
+
+# Construir la imagen de Docker
+docker build -t sql_server_custom .
+
+# Ejecutar el contenedor
+docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=Pass123456789_' -p 1433:1433 --name sql_server_container -d sql_server_custom

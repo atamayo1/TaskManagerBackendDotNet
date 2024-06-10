@@ -69,3 +69,4 @@
 /Users/anthonytamayoortega/Documents/BackendProjects/NET/TaskManagerBackendDotNet/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
 /Users/anthonytamayoortega/Documents/BackendProjects/NET/TaskManagerBackendDotNet/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /Users/anthonytamayoortega/Documents/BackendProjects/NET/TaskManagerBackendDotNet/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/anthonytamayoortega/Documents/BackendProjects/NET/TaskManagerBackendDotNet/obj/Debug/net8.0/TaskManagerBackendDotNet.sourcelink.json
